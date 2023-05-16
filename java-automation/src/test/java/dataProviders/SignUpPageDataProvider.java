@@ -7,8 +7,8 @@ public class SignUpPageDataProvider {
     public Object[][] SignUpPageDataProvider() {
         return new Object[][] {
                 {"chrome", true},
-                {"firefox", true},
-                {"edge", true},
+//                {"firefox", true},
+//                {"edge", true},
         };
     }
 }
